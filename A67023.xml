@@ -1,0 +1,287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the Oxfordshire-feast, Novemb. 25. 1674 in the church of St. Michael's Cornhill, London / by John Woolley ...</title>
+            <author>Woolley, John, b. 1645 or 6.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67023</idno>
+            <idno type="STC">Wing W3525</idno>
+            <idno type="STC">ESTC R10339</idno>
+            <idno type="EEBO-CITATION">12590671</idno>
+            <idno type="OCLC">ocm 12590671</idno>
+            <idno type="VID">63902</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67023)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63902)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 971:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the Oxfordshire-feast, Novemb. 25. 1674 in the church of St. Michael's Cornhill, London / by John Woolley ...</title>
+                  <author>Woolley, John, b. 1645 or 6.</author>
+               </titleStmt>
+               <extent>[6], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Maxwell, for R. Royston ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Festival-day sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:63902:1"/>
+            <pb facs="tcp:63902:1"/>
+            <pb facs="tcp:63902:2"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <dateline>
+                  <date>Dec. 30. 1674.</date> Ex Aed. Lambethanis,</dateline>
+               <signed>THO. TOMKYNS.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:63902:2"/>
+            <p>A SERMON Preached at the <hi>OXFORDSHIRE</hi>-FEAST, <hi>Novemb.</hi> 25. 1674. In the Church of St. <hi>Michael</hi>'s <hi>Cornhill,</hi> LONDON.</p>
+            <p>By <hi>John Woolley</hi> M. A. and late Fellow of <hi>Trin. Coll.</hi> in <hi>Oxon:</hi> And Rector of St. <hi>Michael</hi>'s <hi>Crooked-lane, LONDON.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. Maxwell,</hi> for <hi>R. Royſton,</hi> Book<g ref="char:EOLhyphen"/>ſeller to His Moſt Sacred Majeſty, at the <hi>Angel</hi> in <hi>Amen-Corner.</hi> MDCLXXV.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:63902:3"/>
+            <pb facs="tcp:63902:3"/>
+            <head>To my Honour'd Countrymen, the <hi>Oxfordſhire Gentlemen:</hi> And particularly to the <hi>Stewards,</hi>
+               <list>
+                  <item>
+                     <hi>Mr.</hi> SAM<g ref="char:V">Ʋ</g>EL SKINNER.</item>
+                  <item>
+                     <hi>Mr.</hi> THOMAS CROSSE.</item>
+                  <item>
+                     <hi>Mr.</hi> JAMES PA<g ref="char:V">Ʋ</g>L.</item>
+                  <item>
+                     <hi>Mr.</hi> MARTYN STAMP.</item>
+                  <item>
+                     <hi>Mr.</hi> JEFFERY FLEXNEY.</item>
+                  <item>
+                     <hi>Mr.</hi> THOMAS HASLEWOOD.</item>
+                  <item>
+                     <hi>Mr.</hi> EDWARD COLLINGWOOD.</item>
+                  <item>
+                     <hi>Mr.</hi> EDM<g ref="char:V">Ʋ</g>ND WANSELL.</item>
+                  <item>
+                     <hi>Mr.</hi> PHILIP B<g ref="char:V">Ʋ</g>RTON.</item>
+                  <item>
+                     <hi>Mr.</hi> FRANCIS SMART.</item>
+                  <item>
+                     <hi>Mr.</hi> THOMAS RO<g ref="char:V">Ʋ</g>S.</item>
+                  <item>
+                     <hi>Mr.</hi> EDM<g ref="char:V">Ʋ</g>ND HASLEWOOD.</item>
+                  <item>
+                     <hi>Mr.</hi> THOMAS BARRET.</item>
+               </list>
+            </head>
+            <opener>
+               <salute>Honour'd Countrymen,</salute>
+            </opener>
+            <p>THE chief thing which I have to ſay to you at preſent is, To beg your pardon for my telling the World, how poorly you were provided with a Ser<g ref="char:EOLhyphen"/>mon,
+<pb facs="tcp:63902:4"/> who had taken ſuch excellent care in all things elſe, to the Honour and Content of your <hi>Countrymen.</hi> However you may partly thank your ſelves for it; ſince being ſtraitned in your time, I knew not upon what occaſion ſome of you were pleas'd to hope, That I could in 13 days provide any thing worthy your ſelves, or the Honour of your Aſſembly. It might indeed have been more both for your Credit and mine own, if I had declin'd this publick Service, till Age and Experience had added Strength to my Eloquence, and Autho<g ref="char:EOLhyphen"/>rity to my Perſon: But I muſt confeſs, I took this Task upon me, out of that eagerneſs and fondneſs which I had to be publickly known and own'd as one of your <hi>Countrymen.</hi> And herein I conſulted more my own Credit than yours; ſince 'tis more real Honour to be reckon<g ref="char:EOLhyphen"/>ed among you, <hi>my Countrymen,</hi> than I can poſſibly loſe in the Printing this Sermon, though it were far worſe than it is. Wherefore I again intreat your pardon, and good opinion for me. Nor is it to be ſuppos'd, that while I am pleading for Charity and good Nature, I my ſelf ſhould be excluded from having any ſhare in them. When you go on to read this Sermon, as you will find many faults and
+<pb facs="tcp:63902:4"/> weakneſſes in it, ſo you will I hope find ſome Arguments which may perſwade you to excuſe them. So that you have here a very juſt op<g ref="char:EOLhyphen"/>portunity to practiſe what I have recommend<g ref="char:EOLhyphen"/>ed to you. Now having ſaid this, I take my leave of you: Beſeeching Almighty God, to increaſe the Honour and Gallantry of your De<g ref="char:EOLhyphen"/>ſign, by continuing this Yearly and Charitable Solemnity; by furniſhing our <hi>Country</hi> with <hi>Stewards</hi> as Generous as Faithful, and as Good every way as you are; And with far far better <hi>Preachers</hi> than I was:</p>
+            <closer>Who am, <salute>Honour'd Countrymen,</salute> 
+               <signed>Your moſt faithful and moſt obliged Countryman, JOHN WOOLLEY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:63902:5"/>
+            <pb n="1" facs="tcp:63902:5"/>
+            <epigraph>
+               <bibl>GEN. xiij. 8.</bibl>
+               <q>And Abraham ſaid unto Lot, Let there be no ſtrife, I pray thee, between me and thee, and between my Herd-men and thy Herd-men: For we be Brethren.</q>
+            </epigraph>
+            <p>THere are in my Text two General Parts, which I ſhall conſider in this Sermon: And the firſt of theſe two Parts, is, <hi>Abraham's</hi> generous Condeſcention, his eagerneſs and forward compliance for Peace and Friendlineſs, contain'd in theſe words, <hi>And Abraham ſaid unto Lot,</hi> &amp;c.</p>
+            <p>In the other part of my Text, is, <hi>Abra<g ref="char:EOLhyphen"/>ham's</hi> Reaſon for this kind and peaceable temper, to be maintain'd between <hi>Lot</hi> and himſelf, <hi>For we be Brethren.</hi>
+            </p>
+            <p>Now that I may in ſome meaſure promote, what I hope doth naturally grow in your Bo<g ref="char:EOLhyphen"/>ſoms (<hi>Honour'd Country-men</hi>), namely, a large, open, and diffuſive Charity; a gallant, friend<g ref="char:EOLhyphen"/>ly temper of mind: I ſay to this intent, I have choſen out for you the Example of our Fa<g ref="char:EOLhyphen"/>ther <hi>Abraham;</hi> great in his Wealth and Ho<g ref="char:EOLhyphen"/>nour,
+<pb n="2" facs="tcp:63902:6"/> but greater far in his Faith and Charity: An Example known of and approved by every one of you, I am perſwaded: An Example by Gods Providence preſerv'd to us, and to our days, through the many ſpoils, changes, and different events of three thouſand ſix<note place="margin">
+                  <hi>Calviſius</hi> Chronol.</note> hundred and odd years; and this not with<g ref="char:EOLhyphen"/>out Gods ſpecial deſign to be followed by us alſo in theſe later Ages. For we cannot ima<g ref="char:EOLhyphen"/>gine, that the Holy Ghoſt intended we ſhould read the Scriptures as we do a Chronicle of our own Nation, or as we do a Story of <hi>Caeſar</hi> and <hi>Pompey:</hi> But that we ſhould read, and mark, and learn to do as <hi>Abraham</hi> did. Gods Providence in giving and preſerving to us the holy Scriptures, being a far nobler de<g ref="char:EOLhyphen"/>ſign than to entertain our fancies, or furniſh our diſcourſe; it being, among other things, to make us kind and peaceable, gentle, meek, and complying; as you will find <hi>Abraham</hi> to have been in the Story of my Text. By his Example then we are to learn our own duty; by his demeanour in this place and in this affair, we are all bound to manage our own lives and behaviours. This is the Apoſtle's way of Preaching, I am ſure, <hi>Heb.</hi> ch. 11, 12. And 'tis St. <hi>James</hi>'s command alſo, <hi>ch. 5. v.</hi> 10.</p>
+            <pb n="3" facs="tcp:63902:6"/>
+            <p>And this I have ſaid by way of Preface, to juſtifie my intended Diſcourſe, which ſhall be by way of Example, (it being the moſt ingenuous manner of dealing with you), and to ſhew you the force and value of ſuch an Argument: Hoping, that you will with candour and reverence hearken to a Diſcourſe of the ſame nature, though it come far ſhort of the Apoſtle's Preaching, as to the circum<g ref="char:EOLhyphen"/>ſtances of Gravity and Eloquence.</p>
+            <p>To begin then: We find from the <hi>11th</hi> Chapter of this Book of <hi>Geneſis v.</hi> 31. that <hi>Abraham</hi> was indeed Uncle to <hi>Lot,</hi> though in this place he calls him Brother; a compel<g ref="char:EOLhyphen"/>lation among Kinred not unuſual in thoſe times, and in thoſe Countries; <hi>Lot</hi> being the Son of <hi>Haran,</hi> which <hi>Haran</hi> was the Brother of <hi>Abraham,</hi> as by the place doth appear. <hi>Abraham</hi> then, you ſee, was <hi>Lots</hi> Superiour, as to the line of Kinred, and the common Rules of Civility and Good-manners.</p>
+            <p>Again, <hi>Lot</hi> was a Fatherleſs Child, deſolate and without a Parent: As being the Son of that man, who is particularly remarkt ('twas it ſeems a ſtrange thing), I ſay, <hi>Lot</hi> was the Son of that <hi>Haran,</hi> who is particularly remarkt to have died before his own Father, <hi>Gen.</hi> 11. 28.
+<pb n="4" facs="tcp:63902:7"/> 
+               <hi>Lots</hi> condition then, when <hi>Abraham</hi> took him into his own Family, was ſo much the more ſad and calamitous, as being ſo ſtrange and unuſual: And hereupon (as may be ſup<g ref="char:EOLhyphen"/>pos'd) good <hi>Abraham</hi> takes him into his own Family; deals as tenderly with him, as he would have done with his own Child, fur<g ref="char:EOLhyphen"/>niſhes him with Flocks and Herds, with Lands and Poſſeſſions. Now <hi>Abraham,</hi> we may be ſure, was very great and powerful; his very Countenance was an honour and ſupport: Yet this <hi>Abraham</hi> takes with him <hi>Lot</hi> the Orphan, makes him ſharer with him in the variety of his Travels and his Fortune; gives him the honour of his Company, and the protection of his Power. And upon this ſcore alſo was <hi>Abraham</hi> far greater than <hi>Lot;</hi> much the better man every way; as being <hi>Lots</hi> Uncle and Guardian, as being <hi>Lots</hi> Prince, and <hi>Lots</hi> Benefactor: Yet behold! even to this young man, to this <hi>Lot</hi> his Ne<g ref="char:EOLhyphen"/>phew and Pupil, to one beneath him, and beholden to him, is <hi>Abraham</hi> thus kind and condeſcending. He ſtands not upon the puncti<g ref="char:EOLhyphen"/>lio's of nice Honour, or the fond appoint<g ref="char:EOLhyphen"/>ments of a Ceremony: But though a Prince high and mighty, generous and munificent;
+<pb n="5" facs="tcp:63902:7"/> yet he ſtoops down, and humbles himſelf to be at peace with his Inferior; to be at peace with one who was bound by the Laws of Nature and Nations, by the Laws of Thank<g ref="char:EOLhyphen"/>fulneſs, Cuſtom, and Good-manners, to have ſubmitted unto him: That is, <hi>Abraham</hi> looks upon Honour and Majeſty, ſtatelineſs and auſtere diſtance, to be meer trifles, when compar'd with Love and Charity; when compar'd with gentleneſs, benevolence, and juſt compliance. <hi>Abraham,</hi> even mighty <hi>Abraham,</hi> addreſſes himſelf to one that ſhould have waited upon <hi>Him,</hi> pays reſpect to his inferior, caſts off all the Robes of Majeſty, and expoſes himſelf naked to Scorn and Contempt, rather than looſen the Cords of Friendſhip, or break aſunder the Bonds of Peace.</p>
+            <p>And this ſhould we alſo do. We ſhould be any thing rather than unkind or unchari<g ref="char:EOLhyphen"/>table. We ſhould in all our converſation be courteous and affable, kind and familiar to each other, though Providence and a ſuc<g ref="char:EOLhyphen"/>ceſsful induſtry, have plac'd any of us ſome ſteps above our Brethren. God hath ſet no man ſo much higher than another, but that we are all within a Call: Even he that ſits
+<pb n="6" facs="tcp:63902:8"/> at the top, may with a very calm and gentle voice of Peace reach the Ears of him that lies below. We are indeed ſomething above one another, but 'tis a very ſmall matter, 'tis only as the Members in the ſame Body, (which is the Apoſtle's inſtance, and not mine); I ſay,<note place="margin">1 Cor. 12. 27.</note> ſome men are indeed higher than their Bre<g ref="char:EOLhyphen"/>thren, but 'tis as the Head is above the Hand: Though one be the Servant and the other the Maſter, yet we can with little or no pains, nay often to our own eaſe, ſtoop down our Head to lean and repoſe it upon our Arm; and with as little pains can the Hand be lifted up to feed, and ſtroak, and refreſh the Head. In ſhort, every one of us here preſent, may at one time or another, be a comfort and ſupport, an eaſe and plea<g ref="char:EOLhyphen"/>ſure to each other; the higheſt to the low<g ref="char:EOLhyphen"/>eſt, and the loweſt to the higheſt: He that is rich and great, may comfort and make glad the Souls of the poor ones; and he that is poor, may oblige the rich good man, by affording him opportunities to gratifie his own juſt deſires of doing good. Thus may we all in our ſeveral places be ſerviceable to one another: Nor are we to live at ſuch a diſtance, but that we may be within the
+<pb n="7" facs="tcp:63902:8"/> compaſs of a neighbourly converſation, and a familiar acquaintance.</p>
+            <p>But what is more to my preſent purpoſe: If any of us (my Brethren) ſhould chance at any time to fall out and quarrel about Flocks and Herds, Lands and Poſſeſſions (which God forbid); I ſay, if this ſhould happen, as I hope it will not, yet 'tis no diſcredit, you ſee, no ſordid abject debaſement, even for the beſt of you to begin peace and re<g ref="char:EOLhyphen"/>concilement with your offending or your offended Brother. It will be no diſparagement to your Courage, to your Birth, or your Quality, if great men, as in other caſes, ſo in this alſo, take place, and have the prece<g ref="char:EOLhyphen"/>dence, to begin the methods of peace and forgiveneſs. <hi>Abraham</hi> in my Text did ſo, you ſee; and for this ſtands high upon the Pillars of Fame to this very day: He con<g ref="char:EOLhyphen"/>deſcended, and as it were ſubmitted to his offending inferior: And yet for all this, I appeal to your own Souls and Conſciences, whether any of you ever thought the worſe of <hi>Abraham</hi> for it. 'Tis indeed a very com<g ref="char:EOLhyphen"/>mon thing, to ſee a poor man crouch and cringe to his better: But 'twill be <hi>ſpectacu<g ref="char:EOLhyphen"/>lum Deo dignum,</hi> to ſpeak with <hi>Seneca,</hi> 'twill
+<pb n="8" facs="tcp:63902:9"/> be a ſight worth the view and approbation of God himſelf, to ſee a great man condeſcend and intreat for peace with a poor man: I ſay, 'twill be a ſight pleaſing to God and his ho<g ref="char:EOLhyphen"/>ly Angels; inaſmuch as 'tis the common pra<g ref="char:EOLhyphen"/>ctice of Heaven ſo to do, or elſe God never had been, never would be reconciled to us miſerable duſt and aſhes. How beautiful a thing then will it be, to ſee a man not puft up with his Riches and Honour, as with a Poyſon or a Diſeaſe; but by the weight of his abundance preſt lower, and bowed down to his poor deſolate Brother.</p>
+            <p>And I the rather commend this to you (my Brethren) becauſe it often happens, that a great man may promote peace and friendlineſs, when a poor man dares not. Ma<g ref="char:EOLhyphen"/>ny men are not ſtubborn, but modeſt; they are not froward and peeviſh, but very baſh<g ref="char:EOLhyphen"/>ful; they are indeed willing, but cannot be ſo bold, as to proffer peace, or even to ask forgiveneſs. They are not like the ſturdy Oak, which will not bow even to a Tem<g ref="char:EOLhyphen"/>peſt; but like the Hair of our Head, which will bend and bow to any thing, but is apt to be blown aſide by every Breath. Such are many men, willing enough to comply with
+<pb n="9" facs="tcp:63902:9"/> peace, hugely capable of being bow'd to any ſhape; but the blaſt of a great man's mouth, ſome few bluſtering words quite diſcourage them, they fly into Corners, and there pine away in ſecret and in ſcorn. This is a conſi<g ref="char:EOLhyphen"/>deration of high Morality, and worthy of your nobleſt Charity: And from whence I could heartily wiſh, That you who are great and good, would learn to pity ſuch men, to call and invite, to encourage and per<g ref="char:EOLhyphen"/>ſwade your meaner Brethren to be Friends, if ever intereſt or a ſad accident caſt diſcon<g ref="char:EOLhyphen"/>tents among you.</p>
+            <p>But on the other ſide, ſuppoſe it be ſtub<g ref="char:EOLhyphen"/>bornneſs in a mean man (as Poverty is of<g ref="char:EOLhyphen"/>ten froward and peeviſh, and we muſt bear with it), I ſay, ſuppoſe it be ſtub<g ref="char:EOLhyphen"/>bornneſs in a mean man; yet it becomes men of Parts and Education, to teach Clowns their Duty, with calmneſs and gravity, with good words and prudent behaviour, to ſoften and poliſh ſuch rude and ungarniſht minds. 'Tis ſuch mens Di<g ref="char:EOLhyphen"/>ſeaſe and Diſtemper to be quarrelſom and froward; And 'tis the good man's Duty, even to help and pity them in this con<g ref="char:EOLhyphen"/>dition: For we are not to ſuffer a Con<g ref="char:EOLhyphen"/>vulſive
+<pb n="10" facs="tcp:63902:10"/> man to lye in the Fire, into which his angry Sickneſs hath caſt him, though in the taking him up, his Diſeaſe, and not he, ſtrike us on the Face, or ſmite us on the Breaſt: For we are to remember, that in ſuch a caſe he will do as much even to himſelf. And this I ſay, not to encou<g ref="char:EOLhyphen"/>rage the Clown in his clowniſhneſs, or the froward man in his frowardneſs: But to ſhew you, that Peace and Love, Friendſhip and Charity, are to be procured at any rate; And that the rich man ought to ſeek peace, and enſue it (as the Apoſtle ſpeaks) when the poor man will not, or rather dares not offer at it.</p>
+            <p>But farther, becauſe this Day's buſineſs, and my Text oblige me to a larger Diſ<g ref="char:EOLhyphen"/>courſe of Friendſhip and Unity; Give me leave again to recommend to you the Ex<g ref="char:EOLhyphen"/>ample of <hi>Abraham,</hi> in this following me<g ref="char:EOLhyphen"/>thod.</p>
+            <p>And firſt, Let us take notice of <hi>Abra<g ref="char:EOLhyphen"/>ham</hi>'s willingneſs to be at peace, from the <hi>manner</hi> of his endeavouring after it, expreſt in theſe words, <hi>Let there be no ſtrife, I pray thee,</hi> &amp;c.</p>
+            <p>Secondly, Let us take notice of <hi>Abra<g ref="char:EOLhyphen"/>ham</hi>'s
+<pb n="11" facs="tcp:63902:10"/> willingneſs to be at peace, in the <hi>matter</hi> in which this quarrel was like to be; namely, in the matter of worldly gain, in Lands and Poſſeſſions; together with the ex<g ref="char:EOLhyphen"/>tent of it, it was like to grow even among their Servants alſo, among their Herdmen, <hi>&amp;c.</hi>
+            </p>
+            <p>As to the manner of <hi>Abraham</hi>'s addreſs; you have partly ſeen it already, in his apply<g ref="char:EOLhyphen"/>ing himſelf to <hi>Lot,</hi> his Nephew and Inferi<g ref="char:EOLhyphen"/>or; and it is farther expreſt in his humble words, and gentle intreaties, <hi>Let there be no ſtrife, I pray thee.</hi> I pray thee! What lowly, meek, and friendly language is here! He that could have commanded, intreats; he that was Lord and Maſter, prays and be<g ref="char:EOLhyphen"/>ſeeches for peace. What melting Language was this! How muſt this <hi>dominari affecti<g ref="char:EOLhyphen"/>bus,</hi> rule and controul the Paſſions, far more than the Eloquence of <hi>Cicero</hi> or <hi>Demoſthenes!</hi> or to put it into the phraſe of a better Ora<g ref="char:EOLhyphen"/>tor than both theſe, <hi>His words indeed are ſweeter than honey, yea than honey, or the honey-comb.</hi> Nor was this civil and obliging Language a fit of Courtſhip, or a good humour only; but the uſual and frequent practice of this mighty Prince. An inſtance of whoſe courteous behaviour, fit to be ta<g ref="char:EOLhyphen"/>ken
+<pb n="12" facs="tcp:63902:11"/> notice of by all proud and moroſe men, we have in <hi>Gen.</hi> 23. where alſo the very Hea<g ref="char:EOLhyphen"/>then, the Sons of <hi>Heth,</hi> may upbraid our <hi>Quakers,</hi> and ſuch like untaught and illite<g ref="char:EOLhyphen"/>rate Clowns. The Story in ſhort is this:</p>
+            <p>
+               <hi>Sarah</hi> was now dead; and <hi>Abraham,</hi> though grief might have made him ſullen, comes and treats friendlily and obligingly with the Sons of <hi>Heth,</hi> about a burying-place; and they do it in ſuch language, and ſuch a manner, that even the Courts of civiliz'd Nations cannot exceed them. So early and ſo natural is the practice of civil words, reſpectful Behaviour, and honourable Com<g ref="char:EOLhyphen"/>pellations; for at <hi>ver.</hi> 5, 6, we thus read:</p>
+            <p>
+               <hi>And the Children of Heth anſwered Abra<g ref="char:EOLhyphen"/>ham, ſaying unto him, Hear us my Lord, Thou art a mighty Prince among us, in the choice of our Sepulchers bury thy dead.</hi> Ver. 7. <hi>And Abraham ſtood up, and bowed himſelf to the people of the Land</hi>—. And ſo he doth again at the <hi>12th</hi> Verſe. He doth not, it ſeems, think it inconſiſtent with his Religion, or inconſiſtent with his Honour, to bow his Bo<g ref="char:EOLhyphen"/>dy, and pay his reſpect even to the Heathen, in whoſe eſteem he was a mighty Prince. He takes their awful and civil compellati<g ref="char:EOLhyphen"/>on
+<pb n="13" facs="tcp:63902:11"/> of Lord, and gives them back his bodi<g ref="char:EOLhyphen"/>ly Complement; though as far from Super<g ref="char:EOLhyphen"/>ſtition, and as tender of Gods Honour, as any of our moroſe Pretenders can be. Let thoſe men therefore conſider this, and go not you into their ways, a main part of whoſe Re<g ref="char:EOLhyphen"/>ligion it is, to be unmannerly, both to God and to man.</p>
+            <p>But to return to my Text: We are to take notice in it, of <hi>Abraham</hi>'s kind and meek language, of his praying and beſeech<g ref="char:EOLhyphen"/>ing, even while he was at odds with his Ne<g ref="char:EOLhyphen"/>phew. Which may be remembred to the conviction, and be it ſpoken to the ſhame of us Chriſtians; who in a conteſt or a quar<g ref="char:EOLhyphen"/>rel, in a ſmall pet, or ſome trifling diſagree<g ref="char:EOLhyphen"/>ment, do rail at and backbite, do ſlander and abaſe each other. Curſings and evil-ſpeakings are our frequent Arguments, and we <hi>ſhoot out our arrows, even bitter words.</hi> This en<g ref="char:EOLhyphen"/>rages and envenoms the Wound, adds bit<g ref="char:EOLhyphen"/>terneſs to the Gall, turns a Diſpute into a Frenzy, and makes that Madneſs which ſhould be Reaſon.</p>
+            <p>But on the other ſide; when do we hear ſuch language as this in my Text, or to whoſe Ear hath the report come? <hi>Let there
+<pb n="14" facs="tcp:63902:12"/> be no,</hi> &amp;c. <hi>between me and thee, I pray thee, my Brother.</hi> I beſeech thee for peace my Friend; Come, let's agree, and dwell toge<g ref="char:EOLhyphen"/>ther in Unity. No, we are ſo far from ſuch meek and tender Expreſſions, ſo far gene<g ref="char:EOLhyphen"/>rally from intreating for peace, that when men ſpeak unto us of it, we make our ſelves ready for Battel. We will not move one ſtep forward to be at peace: But we fix our ſelves, and ſit down in the Chair of the Scornful, Επὶ καθέδρα λοιμῶν, <hi>In cathedra peſtium,</hi> as <hi>Tertullian</hi> of old reads it out of the <hi>Greek</hi>
+               <note place="margin">
+                  <hi>Tert.</hi> lib. de ſpectac. ſub. initio.</note> Tranſlation of the Bible. The Scornful man is a Peſt and Infection; his Breath poiſons the Air, and blaſts the credit of all that come near him. Such cruel things are bit<g ref="char:EOLhyphen"/>ter words, that they are and may be com<g ref="char:EOLhyphen"/>par'd to what we fear moſt of all, even to the Plague and Peſtilence. Let us therefore avoid all ſuch unnatural and reproachful words. Let our Diſcourſe, even in Diſputes and Controverſies, be amiable and obliging, be courteous, peaceful, and condeſcending. And let all ſuch men know, who are given to a proud and haughty ſpeech, that <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> a better man than the beſt of ſuch Scorners, chides them ſeverely in this Ex<g ref="char:EOLhyphen"/>ample,
+<pb n="15" facs="tcp:63902:12"/> and <hi>though he be dead, yet ſpeaketh.</hi> Nor muſt they look to dwell in his peace<g ref="char:EOLhyphen"/>ful Boſom, or to have <hi>one drop of water to cool thoſe tongues, which before-hand are ſet on fire of Hell,</hi> as St. <hi>James</hi> expreſſeth it.<note place="margin">Cap. 3.</note>
+            </p>
+            <p>Wherefore, <hi>Beloved Country-men,</hi> ſeeing theſe things are ſo, Let us wholly conform our language and behaviour, our endeavours and our intreaties, to peace and friendſhip. If our Enemies curſe, let us bleſs; if they revile, let us beſeech. And who can tell, but a ſoft word may melt that man's heart, who will not be corrected with Scorpions, nor ſubdued with a rod of Iron? Thus have I done with the manner of <hi>Abraham's</hi> addreſs, his peaceful and kind approaches; hoping, that your Education and good manners, your natural goodneſs, and your Chriſtian Piety will improve this Example to the publick honour, quiet, and advantage both of your ſelves and others.</p>
+            <p>As to the remaining part (in which I ſhall be ſhort), namely, the matter of this debate and growing quarrel; 'twas about Flocks and Herds, about Fields and Poſſeſſions: And no wonder, for Riches and Gain have made Breaches in the cloſeſt and moſt compact
+<pb n="16" facs="tcp:63902:13"/> Friendſhips. Theſe have made Fa<g ref="char:EOLhyphen"/>thers cruel, and Sons diſobedient; have torn Families into pieces, and ſcatter'd blood and ruine among the deareſt Re<g ref="char:EOLhyphen"/>lations: And therefore it being the com<g ref="char:EOLhyphen"/>mon fate of mankind, to quarrel for ſuch mean concerns, I cannot but conjure you, by Charity and Religion, by the Honour and Remembrance of your Country, and laſtly, by this great Example, That you quar<g ref="char:EOLhyphen"/>rel not about ſuch things. Suffer not your ſelves to be hurried by this common Stream into the wide Sea and open Tempeſts of wranglings and diſagreements. Waſte not your Time, and your Eſtates, and your Charity to boot, in long and vexatious Suits at Law. Prefer your Charity before your Riches: Pre<g ref="char:EOLhyphen"/>fer the peace of God, and of your Neighbour, and of your own Conſciences, before wealth and abundance, before your profit or your pleaſure. For here alſo <hi>Abraham</hi> is your Example, and bids you do ſo; who rather than fall out with his Nephew <hi>Lot,</hi> gives him his choice, and parts with a Land that was well water'd, <hi>Even as the Garden of the Lord, like the land of Egypt, as thou comeſt to Zoar,</hi> Verſe 10, of this Chapter.</p>
+            <pb n="17" facs="tcp:63902:13"/>
+            <p>But if neceſſity, and domeſtick prudence to keep our own, caſt us upon diſputes and controverſies; Go firſt, and intreat for peace, pray to God for his help, and to thine an<g ref="char:EOLhyphen"/>gry Brother for his compliance: Try all the arts and methods of peace; ſo ſhalt thou have the Bleſſing of <hi>Abraham,</hi> even the eter<g ref="char:EOLhyphen"/>nal Bleſſings of the Peace-makers.</p>
+            <p>And this we muſt do, not only between our ſelves and our Neighbours, but between our Servants and their Servants; according to the extent of <hi>Abraham</hi>'s Charity here in my Text, <hi>Let there be no ſtrife between my Herdmen and thy Herdmen.</hi> We muſt take care to ſpread and enlarge our Charity, and to let it drop down from our Head to the Skirts of our Garments, even to the meaneſt that belong to us. Servants are ſometimes petulant and querulous, froward and talkative; and ma<g ref="char:EOLhyphen"/>ny a man by upholding an unmannerly Child, or a pragmatical Servant, hath enrag'd his Neighbour, and loſt his Friend. 'Tis there<g ref="char:EOLhyphen"/>fore our duty to teach our Children and Ser<g ref="char:EOLhyphen"/>vants modeſty and civil language: To plant peace in the tender youth, and to fix it in the baſeſt diſpoſitions. We are to increaſe the Dominions of Charity, and to enlarge
+<pb n="18" facs="tcp:63902:14"/> the Curtains of her Habitation, that ſhe may dwell even among the meaneſt of the people; that is, we are to deal our love and good nature, as we do our Bread, even to all our Family.</p>
+            <p>Laſtly, When we are made Friends with any man, as we muſt ceaſe to do evil, ſo we muſt learn to do good to him and his. Ma<g ref="char:EOLhyphen"/>ny men ſay, when they are agreed with a Neighbour, I am friends with him at laſt, but I have done with him, I'le take care never to deal with him more. This is the common Rhetorick of cruel men, and the Eloquence of worldly wiſdom. I do not forbid Cau<g ref="char:EOLhyphen"/>tion and juſt Prudence in ſuch caſes; but I ſay, we muſt do as we find <hi>Abraham</hi> doing in the next Chapter to my Text; not only reconciling himſelf to <hi>Lot</hi> (as here) even to his own Loſs, but venturing his own Life and Fortune for him, againſt the combin'd force of his barbarous Enemies. We muſt, when we are made Friends with any man, aſſiſt him with our Strength and with our Riches, with our Counſel and with our In<g ref="char:EOLhyphen"/>tereſt, and that too in his greateſt neceſſities. Our Lives and our Diſcourſes, our Wealth, our Servants and Children, all that we have
+<pb n="19" facs="tcp:63902:14"/> are to be diſpoſed for Peace and Charity. We muſt plead the cauſe of the abſent, and intreat thoſe we meet face to face: And we muſt allow men to plead for themſelves, and to make their own excuſes; and not be as cruel to one another, as we are told the Heathens were to our Forefathers, the Chri<g ref="char:EOLhyphen"/>ſtians, who allow'd to all men, even to the moſt vile Malefactors, an Advocate to plead for them, ſave only to the Chriſtians. Where<g ref="char:EOLhyphen"/>fore, as I ſaid before, ſo I ſay again, Let us be kind and familiar, courteous and affable, intreating and eaſie to be intreated; <hi>For</hi>
+            </p>
+            <p>
+               <hi>We be Brethren:</hi> The Second General of my Text, namely, <hi>Abraham's</hi> Reaſon for this kind and peaceable temper to be maintain'd between <hi>Lot</hi> and himſelf, <hi>For we be Bre<g ref="char:EOLhyphen"/>thren,</hi> &amp;c.</p>
+            <p>Now a Brother carries in its Name all the endearments of Nature, the ſtrongeſt and moſt valiant Arguments for Love that can be. Even thoſe Chriſtians of old, who were ſo famous for loving one another, could not find out a fitter name than this: And though the Heathens ſcofft at them for it, yet they ſtood to their name of <hi>Fratres,</hi> of Brethren, and made it good by their Practice; ſo lo<g ref="char:EOLhyphen"/>ving
+<pb n="20" facs="tcp:63902:15"/> and ſo friendly, that they had every thing common but their Wives. And in<g ref="char:EOLhyphen"/>deed the Love of Brethren is the very Seed and Root of Kingdoms and Societies, of Ci<g ref="char:EOLhyphen"/>ties and Commonwealths: And the eternal Rules of Peace and Juſtice muſt be firſt maintain'd in private Families, or elſe there can be no ſuch thing as Publick Weal and Society. The Reaſon then which <hi>Abraham</hi> gives for Peace, is the moſt plain and natu<g ref="char:EOLhyphen"/>ral, the moſt agreeable and convincing Argu<g ref="char:EOLhyphen"/>ment in the World. Nor may we think <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> ſo little skill'd in Paſſions, in the Arts of Eloquence and Perſwaſion, as not to apply the moſt ſuitable Topick in a matter his Soul ſo much deſired.</p>
+            <p>But farther yet: The <hi>Hebrew</hi> adds more ſtrength and luſtre to <hi>Abraham's</hi> Argument; nor can I well ſee, why this Reading I am about to mentin, is thruſt out into the Mar<g ref="char:EOLhyphen"/>gin, unleſs it be to comply with the <hi>Greek</hi> Tranſlation. For in the Original it runs thus: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>For men Brethren are we;</hi>
+               <note place="margin">Bib. Polyglot.</note> follow'd by the <hi>Syriack</hi> alſo, and <hi>Chaldee</hi> Tranſlations: <hi>For Men Brethren are we;</hi> that is, we are Men as well as Brethren; our Nature as well as our Kinred bids us not to
+<pb n="21" facs="tcp:63902:15"/> quarrel. 'Tis beaſtly indeed, and inhumane. 'Tis like the Wolves of the Deſart, and the Lyons of the Wilderneſs, and not like Men: From whoſe very name good-nature hath its Title, and is call'd Humanity.</p>
+            <p>But farther yet, there is more in this Ar<g ref="char:EOLhyphen"/>gument ſtill: <hi>We are,</hi> ſaith <hi>Abraham, Ana<g ref="char:EOLhyphen"/>ſhim, Achim,</hi> periſhing, <hi>mortal Brethren;</hi> and therefore, let us not quarrel: we have ene<g ref="char:EOLhyphen"/>mies enough beſide, the Devil and his An<g ref="char:EOLhyphen"/>gels, Death and Sickneſs, and ten thouſand accidents, to conſume and to diſſolve us; yea, and the very Air doth prey upon and devour us. <hi>We are ſickly, periſhing Brethren, and therefore let there be no ſtrife between us.</hi> This is in ſhort the ſum of <hi>Abraham</hi>'s Argument. And give me leave to expoſtulate the caſe with you alſo; For are not we ſuch alſo, <hi>my Brethren?</hi> Are not we mortal, fading, ſickly Creatures? Therefore, let us alſo be at peace. For what an ugly ſight is it, to ſee two weak dying men graſping for a Morſel they can<g ref="char:EOLhyphen"/>not ſwallow, or for ſome pleaſant Toy which they cannot enjoy; to ſee them ſcratch at, and offer violence to each other, to employ that ſmall leiſure which their Features have from Pangs and Convulſions, in threatning
+<pb n="22" facs="tcp:63902:16"/> Looks, and ghaſtly Menaces. And ſuch are we, <hi>periſhing Brethren,</hi> every day going to our long home, and therefore let us not quar<g ref="char:EOLhyphen"/>rel at our parting; but like Friends that are taking leave, let us employ that little time we have, in ſhaking hands, in love and kind<g ref="char:EOLhyphen"/>neſs, in Charity and good wiſhes: For though <hi>Menander</hi> an Heretick (in <hi>Irenaeus</hi>) brag'd<note place="margin">
+                  <hi>Iren.</hi> lib. 1. cap. 21. E<g ref="char:EOLhyphen"/>dit. 1625. Colon.</note> that his Diſciples, when once baptized, could neither wax old, nor grow ſick; yet time and death gave him the Lye, and we are all <hi>Anaſhim Achim, periſhing Brethren</hi> for all that. Thus have I enlarged on <hi>Abraham</hi>'s Reaſon: And this Argument is to remain upon our Conſciences and our Memories alſo (<hi>Honou<g ref="char:EOLhyphen"/>red Countrymen) For we are Brethren:</hi> Brethren in the ſame great Family, the Church of Chriſt: Brethren in the ſame Proteſtant Re<g ref="char:EOLhyphen"/>ligion: Brethren of the ſame County, and moſt of us Brethren in the ſame City: We are tied together to Love and Peace, by all the Obligations of Religion, of humane na<g ref="char:EOLhyphen"/>ture, and of humane frailty: We, even we, are under all thoſe Obligations with which wiſe and peaceable <hi>Abraham</hi> prevail'd over his Nephew. Let us therefore be at unity, as Brethren in an Houſe; let us agree and
+<pb n="23" facs="tcp:63902:16"/> conſent to do good; yea, let us rejoice toge<g ref="char:EOLhyphen"/>ther for the good of others: Then ſhall this Solemnity be a Solemnity of Bleſſing; and Αγάπη may be the Name for our Feaſts; they may be Charity it ſelf, as the Meetings of the Ancients were call'd: And 'tis (God be thanked) in our Power to be ſo. In order to this, give me leave to recommend to you at this time two Circumſtances, wherein it were to be wiſht we could all agree: And then I have done.</p>
+            <p>Firſt then, Let us be united in our Reli<g ref="char:EOLhyphen"/>gion: For if <hi>Abraham</hi> complyed ſo much, and took ſuch care to be at peace in world<g ref="char:EOLhyphen"/>ly Affairs; How much more ſhould we ſtrive to be at peace in our Religion, whoſe very buſineſs is Charity, and whoſe Goſpel is a Goſpel of peace? Conſider your tender Mo<g ref="char:EOLhyphen"/>ther, the Church of <hi>England,</hi> and be not ea<g ref="char:EOLhyphen"/>ſily perſwaded to think amiſs of her; of her who hath pray'd and intreated her diſobedi<g ref="char:EOLhyphen"/>ent Sons to come to her, who hath diveſted her ſelf of many innocent and honourable Priviledges, to ſatisfie the weak and diſcon<g ref="char:EOLhyphen"/>tented: And I hope no man would have her go naked, would ſtrip her of all her de<g ref="char:EOLhyphen"/>cent Ornaments, to content the Pride and
+<pb n="24" facs="tcp:63902:17"/> Avarice of her diſobedient Children; thoſe Children whom ſhe <hi>would have gathered un<g ref="char:EOLhyphen"/>der her wings, as a Hen gathereth her Chicken, and they would not.</hi> There are indeed many Pretences and Suggeſtions, many Scruples and Objectins, which I may not anſwer now; many Jealouſies and Fears of Popery and Su<g ref="char:EOLhyphen"/>perſtition: But 'tis well, if the <hi>Romans</hi> do not ſerve us, as one of them did the muti<g ref="char:EOLhyphen"/>nous <hi>Jews</hi> of old; for <hi>Pilate,</hi> as <hi>Euſebius</hi>
+               <note place="margin">
+                  <hi>Euſeb.</hi> Hiſt. lib. 2. cap. 6. <hi>Joſeph.</hi> lib. 2 de bello Ju<g ref="char:EOLhyphen"/>daic. <hi>c.</hi> 18.</note> tells us out of <hi>Joſephus,</hi> I ſay, <hi>Pilate,</hi> when he was made Governour by <hi>Tiberius,</hi> and when he could not hope the <hi>Jews</hi> would ever ſuffer him to bring in his Emperors Stan<g ref="char:EOLhyphen"/>dards and Images openly into the City (for the <hi>Jews</hi> abhorr'd and deteſted ſuch things, and the forenam'd <hi>Joſephus</hi> a <hi>Jew</hi> reckons it among <hi>Solomon</hi>'s Crimes, his making the Simi<g ref="char:EOLhyphen"/>litude<note place="margin">
+                  <hi>Joſeph.</hi> Ant. l. 8. Lat. Frob. 2 <hi>Chron.</hi> 4.</note> of Brazen Oxen under the Molten Sea, and of <hi>Lyons</hi> on his Throne); I ſay, this <hi>Pilate</hi> contriv'd to bring thoſe Images into the City in the dark night, and cover'd too, and veil'd over: But when he had once got them in, it coſt the <hi>Jews</hi> many tears and lamentations, much danger and more ſorrow, before they could get them remov'd again. And let us take care, and I pray God we do not find
+<pb n="25" facs="tcp:63902:17"/> Popery and Superſtition, Images and Idols maskt under the Garments of Zeal and Re<g ref="char:EOLhyphen"/>formation, brought into this Church; which was once, and is ſtill the Glory and Support of the Proteſtant Intereſt.</p>
+            <p>But ſecondly, That which I chiefly deſign at this time, and I humbly beg you all to agree in, Is a Generous, and Free, and Cha<g ref="char:EOLhyphen"/>ritable Supply for your Poor Countrymen: For thoſe, who mourn in ſecret, and dwell in the low Tabernacles of Smoak and deſo<g ref="char:EOLhyphen"/>late want: For thoſe, who themſelves alſo would have made a part of this Solemnity, had not God in his Providence diſpoſed them to a ſadder Entertainment. Remember the Fatherleſs and the Widow, whoſe cry cometh up to Heaven, even now while we are paying our Devotions toward it: Thoſe, who ſuſtain the neceſſities and hardſhips, the cold and hunger of the whole year upon the hopes of being comforted by the Bounty and Charity of this day. Nor need I uſe many words, to perſwade you, <hi>my Brethren:</hi> For, beſides the tyes of Religion and natural Com<g ref="char:EOLhyphen"/>paſſion, methinks we of all other men, have the greateſt Obligations upon to be Cha<g ref="char:EOLhyphen"/>ritable: We were born in that County, which
+<pb n="26" facs="tcp:63902:18"/> is bleſt with an Univerſity, the very Seat and dwelling-place of Charity. She lies ſcatter'd indeed in private Boſomes, and hath now and then taken up her Lodgings in other places: But in your Country is her Manſion<g ref="char:EOLhyphen"/>houſe, there is her Throne, and place of a<g ref="char:EOLhyphen"/>bode. It was in your County that ſhe firſt appeared in State; and 'twas <hi>Oxford,</hi> that was bleſt with the early deſigns of Charity, that being the place where the two firſt endow'd Colleges of <hi>Chriſtendom</hi> were built, as <hi>Camb<g ref="char:EOLhyphen"/>den</hi>
+               <note place="margin">
+                  <hi>Cambd.</hi> in <hi>Oxfordſh.</hi> p. 381. <hi>Eng.</hi>
+               </note> aſſures us. From your County one of our beſt Kings (<hi>Charles</hi> the Martyr always excepted), namely, <hi>Edward</hi> the Confeſſor,<note place="margin">At <hi>Iſlip.</hi>
+               </note> began his life: And another of our moſt va<g ref="char:EOLhyphen"/>liant Kings, <hi>Richard</hi> the firſt, took in his<note place="margin">
+                  <hi>Cambden</hi> ibid. At <hi>Oxon.</hi>
+               </note> great Spirit from your Air. Thus Honou<g ref="char:EOLhyphen"/>rable and Famous hath your County been, even above any County in the World; and hath but one Equal, and that in our own Nation too.</p>
+            <p>Let us not then degenerate from the Cre<g ref="char:EOLhyphen"/>dit and Honour of our Native Soyl; but let us be a Repute to our Country, and a Sup<g ref="char:EOLhyphen"/>port to our poor Countrymen. Let part of that Charity which dwelt among your Fore-Fathers, poſſes your minds: And let us anſwer
+<pb n="27" facs="tcp:63902:18"/> the expectation of the World, and the hope of our poor Brethren at this Day.</p>
+            <p>For beſide our Religion, and the Genius of our Country, even Nature and Pagan Phi<g ref="char:EOLhyphen"/>loſophy bids us be Charitable to the Indigent. And <hi>Ariſtotle</hi> an Heathen can adviſe, That the<note place="margin">
+                  <hi>Ariſt. l. 6. po<g ref="char:EOLhyphen"/>lit.</hi> c. 5.</note> rich are bound to ſupply the poor with Ne<g ref="char:EOLhyphen"/>ceſſaries. Nor can I imagine, what can hin<g ref="char:EOLhyphen"/>der any of us from this natural and pleaſant Duty; unleſs we detain that from the poor, which we deſign to beſtow upon our ſins; unleſs we forbear to give that, which we have already devoted to Wantonneſs, Intempe<g ref="char:EOLhyphen"/>rance, and coſtly Follies. It concerns us therefore, to be more Temperate and Sober, and then we ſhall be more Generous and Charitable. Let us ſpend leſs upon our Vices, upon our gaudy and vain Apparel, upon coſtly Banquets, and endleſs Quar<g ref="char:EOLhyphen"/>rels; and then we ſhall have enough to ſatisfie the juſt Conveniencies of our Quali<g ref="char:EOLhyphen"/>ty, and yet enough to ſpare to the empty Bowels and craving Neceſſities of the poor. And here I may recommend to you the fru<g ref="char:EOLhyphen"/>gal Modeſty in Diet and Apparel of the ancient Chriſtians; whoſe Women (which in moſt Nations are allow'd to be clad ſome<g ref="char:EOLhyphen"/>what
+<pb n="28" facs="tcp:63902:19"/> more delicately) obſerv'd a wonderful Plainneſs and Gravity. For <hi>Tertullian</hi> in his<note place="margin">
+                  <hi>Tert.</hi> Apol. cap. 6.</note> Apology for the Chriſtians, tells us of their Women, <hi>Aurum nulla noverat preterquam uni<g ref="char:EOLhyphen"/>co digito,</hi> &amp;c. The Women wore no Gold, nay ſcarce knew any, but their Wedding-Ring. But the contrary was an early Vice, even in the Church, eſpecially among the Women; whoſe Ornaments and Apparels, colour'd Garments and painted Petticoats, <hi>Tertullian</hi> ſticks not to call the Invention<note place="margin">
+                  <hi>De cultu faem.</hi> l. 2. c. 10</note> not of men, but of evil Angels: But 'twas his advice, and from him let me give it you, to take care of this Vice; and to remember, that Gravity in Clothes, Plainneſs and De<g ref="char:EOLhyphen"/>cency in Apparel, are the Maintainers of thoſe two moſt excellent Vertues, Modeſty and Charity. Nor may we think, that this advice of his proceeded from the Neceſſity of the times, or the Poverty of the Chriſti<g ref="char:EOLhyphen"/>ans: For the ſame Father tells us, nay and<note place="margin">Apolog.</note> he tells the Heathen to their Faces, That the Chriſtians gave more Money away in the Streets, than the Heathens ſpent upon their gods and their Altars, upon their gaudy and their coſtly Superſtitions. And what was the reaſon, why the Chriſtians did and were able
+<pb n="29" facs="tcp:63902:19"/> to do ſo much? Why, I can give it you out of the ſame Father, (ſince I have began<note place="margin">
+                  <hi>Tert.</hi> Apol. cap. 43.</note> to ſpeak out of him), namely, becauſe they were temperate, chaſte, and ſober. For when the Heathens complain'd, that the Chriſtians were a ſort of Cloſe-fiſted men, that they ſpent no money at all; he bravely anſwers, But I'le tell you, ſaith he, who are they that complain, they are the Brothel-houſes, and the Taverns; they are the Miniſters of Luſt, and Luxury, and Vice, that complain, and none elſe. And let all ſuch complain, yea for ever complain among us alſo.</p>
+            <p>And if we are curious to know, how the Chriſtians ſpent their Money; the ſame man<note place="margin">Apol. cap. 39.</note> tells us, They had a Box, wherein every one monthly caſt in what his Charity and Eſtate allowed. And this went, <hi>non potaculis, non epulis,</hi> not to maintain Gluttony and Drun<g ref="char:EOLhyphen"/>kenneſs; but to relieve the poor, to bury the poor; to Children without Father or Mo<g ref="char:EOLhyphen"/>ther, or any ſubſiſtence; to the Aged, to the Impriſoned, and ſuch like poor Chriſtians. Nor can I conclude with, and I think you cannot take a better patern, than this; nor can you grudg, I hope, to do that once a Year, which the ancient Chriſtians (who
+<pb n="30" facs="tcp:63902:20"/> were under worſe circumſtances than moſt of you are) did once every Month.</p>
+            <p>Thus have I from the Example of <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> recommended to you Love, and Peace, and Condeſcention: And from the ancient and beſt Chriſtians have I recommended Bounty and Charity to the Poor and Di<g ref="char:EOLhyphen"/>ſtreſſed: What remains, but that we go and do likewiſe, having the fear of God before us, while we are Feaſting together, and the Charity of Chriſtians, when we have done? And having minded you of theſe two things, namely, of Temperance at our Dinner, and of Bounty after it; I will conclude with a part of Scripture, which I hope you will all remember, taken out of <hi>Nehemiah, ch. 8. ver.</hi> 10.</p>
+            <p>
+               <hi>Go your way, eat the fat, and drink the ſweet; and ſend Portions to them, for whom nothing is provided.</hi>
+            </p>
+            <p>
+               <hi>And then,</hi> as it follows, <hi>This day will be holy unto our Lord; neither ſhall ye be ſorry, for the joy of the Lord will be your ſtrength.</hi>
+            </p>
+            <closer>To whom, the Eternal Creator, Three Per<g ref="char:EOLhyphen"/>ſons, and One God, be Glory and Ho<g ref="char:EOLhyphen"/>nour,
+<pb n="31" facs="tcp:63902:20"/> Might, Majeſty, and Dominion, now and for ever. Now the God of Patience and Conſolation, grant you to be like-minded one towards another, according to Chriſt Jeſus. And, <hi>The Bleſſing of God Almighty, the Fa<g ref="char:EOLhyphen"/>ther, Son, and Holy Ghoſt be among us, and remain with us this Day, and for ever more.</hi> Amen.</closer>
+            <trailer>The End.</trailer>
+            <pb facs="tcp:63902:21" rendition="simple:additions"/>
+            <pb facs="tcp:63902:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
